@@ -43,17 +43,17 @@ It includes solutions, approaches, and learnings from various Data Structures an
 
 - C  
 - C++  
-- Python (basic)  
 - STL (Standard Template Library)
 
 ---
 
 ## 📈 Progress Philosophy
 
-- Consistency over intensity  
-- Learn from every wrong submission  
+- Consistency is the key to long-term improvement  
+- Learn from every mistake and wrong submission  
 - Focus on understanding patterns, not just solving problems  
 - Improve step by step through daily practice  
+- Growth comes from repetition and reflection 
 
 ---
 
@@ -62,10 +62,8 @@ It includes solutions, approaches, and learnings from various Data Structures an
 │
 ├── Codeforces/
 ├── Patterns/
-├── CodeChef/
-├── LeetCode/
-├── DSA-topics/
-└── README.md
+├── README.md
+└── (more folders later)
 
 ---
 
