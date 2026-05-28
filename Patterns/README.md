@@ -1,2 +1,5 @@
-# Programming Patterns
-In this section, we will discuss some basic programming patterns like stars, numbers, pyramids, square. It aims to build strong logical thinking, improve loop concepts and strengthen core programming skills for Data Structures and Algorithms.
+## 🧩 Programming Patterns
+
+This section covers basic patterns such as stars, numbers, pyramids, and squares.
+
+It helps build logical thinking, improve loop concepts, and strengthen fundamentals for Data Structures and Algorithms.
