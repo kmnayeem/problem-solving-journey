@@ -1,2 +1,3 @@
-# Codeforces problem solution
-This section includes my Codeforces problem solutions, arranged by difficulty and practice sheets. It aims to improve problem-solving skills, algorithmic thinking, and consistent performance in competitive programming through regular practice and contests.
+## 🟣 Codeforces Solutions
+
+This section contains my Codeforces problem solutions, organized by difficulty and practice sets. It focuses on improving problem-solving skills, algorithmic thinking, and consistency through regular practice and contests.
