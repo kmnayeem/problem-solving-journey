@@ -58,12 +58,11 @@ It includes solutions, approaches, and learnings from various Data Structures an
 ---
 
 ## 📂 Repository Structure
-/problem-solving-journey
-│
-├── Codeforces/
-├── Patterns/
-├── README.md
-└── (more folders later)
+
+- Codeforces/
+- Patterns/
+- README.md
+- (more folders later)
 
 ---
 
