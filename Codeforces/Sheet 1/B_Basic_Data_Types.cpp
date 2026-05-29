@@ -1,3 +1,11 @@
+/*
+    ========================================================
+    Author  : kmnayeem
+    Topic   : Data Types and Input/Output
+    Problem : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
+    ========================================================
+*/
+
 #include <bits/stdc++.h> 
 // Includes all standard C++ libraries
 using namespace std;
