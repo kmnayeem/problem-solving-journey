@@ -14,26 +14,26 @@ int main()
     char s;
     cin >> a >> s >> b;
     bool ok = false;
-    if (s == '>') 
+    if(s == '>') 
     {
-        if (a > b) ok = true;
+        if(a > b) ok = true;
     } 
-    else if (s == '<') 
+    else if(s == '<') 
     {
-        if (a < b) ok = true;
+        if(a < b) ok = true;
     } 
-    else if (s == '=') 
+    else if(s == '=') 
     {
-        if (a == b) ok = true;
+        if(a == b) ok = true;
     }
 
-    if (ok) 
+    if(ok) 
     {
         cout << "Right" << endl;
     } 
     else 
     {
-            cout << "Wrong" << endl;
+        cout << "Wrong" << endl;
     }
     return 0;
 }
