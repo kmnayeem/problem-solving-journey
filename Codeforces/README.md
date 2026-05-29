@@ -1,3 +1,5 @@
 ## 🟣 Codeforces Solutions
 
-This section contains my Codeforces problem solutions, organized by difficulty and practice sets. It focuses on improving problem-solving skills, algorithmic thinking, and consistency through regular practice and contests.
+This repository contains my Codeforces problem solutions, systematically organized by difficulty and practice sets. It aims to improve algorithmic thinking, problem-solving skills, and consistency through regular practice and contests.
+
+Each sheet provides solutions along with concise explanations of key concepts, logic, and approaches to enhance understanding and learning.
