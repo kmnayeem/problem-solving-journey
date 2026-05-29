@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Toggle Character Case (ASCII Method)
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+ ============================================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -20,12 +28,8 @@ int main()
 
 /*
 ========================================================
-Topic   : Toggle Character Case (Manual + Built-in)
-Author  : kmnayeem
-========================================================
-
 Explanation:
---------------------------------------------------------
+========================================================
 
 1. ASCII Idea:
     - Uppercase letters: 'A' to 'Z' → 65–90
