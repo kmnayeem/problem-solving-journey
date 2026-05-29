@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Integer or Float Detection
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
+ ============================================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() 
@@ -15,8 +23,7 @@ int main()
 
 /*
 ========================================================
-Topic   : Integer or Float Detection
-Author  : kmnayeem
+Explanation:
 ========================================================
 
 Key Idea:
