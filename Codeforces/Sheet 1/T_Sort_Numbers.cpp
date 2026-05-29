@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Sorting Using Vector
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
+ ============================================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() 
@@ -21,12 +29,8 @@ int main()
 
 /*
 ========================================================
-Topic   : Sorting Using Vector
-Author  : kmnayeem
-========================================================
-
 Key Concepts:
---------------------------------------------------------
+========================================================
 
 1. Vector:
     - A dynamic array provided by the C++ STL (Standard Template Library)
@@ -45,5 +49,21 @@ Key Concepts:
     - Compiler automatically deduces variable type
     - Improves readability and reduces verbosity
 
+    
+ * Time Complexity:
+ * ----------------
+ * O(n log n)
+ * - Sorting the vector takes O(n log n), where n = number of elements (here n = 3).
+
+ * Space Complexity:
+ * -----------------
+ * O(n)
+ * - A vector of size n is used to store the elements.
+ * - Extra auxiliary space for sorting is minimal (in-place sort, but vector storage is required).
+ 
 ========================================================
 */
+
+
+
+ 
