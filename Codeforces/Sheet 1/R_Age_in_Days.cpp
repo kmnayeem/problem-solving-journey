@@ -40,7 +40,6 @@ Input:
 Calculation:
     year = 400 / 365 = 1
     remaining_days = 400 % 365 = 35
-
     month = 35 / 30 = 1
     day = 35 % 30 = 5
 
