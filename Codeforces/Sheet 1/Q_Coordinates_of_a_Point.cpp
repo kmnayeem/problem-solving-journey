@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Point Location in 2D Plane
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
+ ============================================================================
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -19,12 +27,8 @@ int main()
 
 /*
 ========================================================
-Topic   : Point Location in 2D Plane
-Author  : kmnayeem
-========================================================
-
 Mathematical Explanation:
---------------------------------------------------------
+========================================================
 
 Let the point be (x, y)
 
