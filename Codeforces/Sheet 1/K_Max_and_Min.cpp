@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Find Minimum and Maximum of Three Numbers
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+ ============================================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -52,7 +60,4 @@ if (a > b)
     cout << " is bigger";
 }
 
------------------------------------------
-Author  : kmnayeem
------------------------------------------
 */
