@@ -37,12 +37,12 @@ int main()
         - Check a % b == 0 → Is 'a' divisible by 'b'?
         - Check b % a == 0 → Is 'b' divisible by 'a'?
     
-        3. Use the logical OR (||) to combine the two conditions:
+    3. Use the logical OR (||) to combine the two conditions:
         - If at least one is true, then one number is a multiple of the other.
     
-        4. Ternary operator is used to print the result concisely:
-            - If condition is true → print "Multiples"
-            - Else → print "No Multiples"
+    4. Ternary operator is used to print the result concisely:
+        - If condition is true → print "Multiples"
+        - Else → print "No Multiples"
 */
 
 /*
