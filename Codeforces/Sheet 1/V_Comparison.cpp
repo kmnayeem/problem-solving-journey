@@ -1,4 +1,12 @@
-#include <bits/stdc++.h>
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Comparison Checker (Using Boolean Flag)
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
+ ============================================================================
+*/
+
+#include<bits/stdc++.h>
 using namespace std;
 int main() 
 {
@@ -32,8 +40,7 @@ int main()
 
 /*
 ========================================================
-Topic   : Comparison Checker (Using Boolean Flag)
-Author  : kmnayeem
+Notes:
 ========================================================
 
 Concept: Boolean (bool) & Flag Variable
