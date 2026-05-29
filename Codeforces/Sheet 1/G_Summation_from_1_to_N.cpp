@@ -1,4 +1,12 @@
 /*
+    ========================================================
+    Author  : kmnayeem
+    Topic   : Brute Force vs Optimized Approach
+    Link    : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+    ========================================================
+*/
+
+/*
     PROBLEM:
     --------
     Given a number n, find the sum:
@@ -11,6 +19,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
+
 int main()
 {
     ios::sync_with_stdio(false);
@@ -49,7 +58,6 @@ int main()
         3. Therefore, it is not suitable for large constraints.
     */
 
-
     /*
         ================================
         APPROACH 2: OPTIMIZED (O(1))
@@ -72,6 +80,7 @@ int main()
     */
 
     cout << n * (n + 1) / 2 << endl;
+
     return 0;
 }
 
@@ -91,8 +100,4 @@ int main()
 
     NOTE:
     These do NOT change logic, only performance.
-*/
-
-/*
-    Author : kmnayeem
 */
