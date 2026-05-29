@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Simple Calculator
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
+ ============================================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -17,12 +25,8 @@ int main()
 
 /*
 ========================================================
-Topic   : Simple Calculator
-Author  : kmnayeem
-========================================================
-
 Explanation:
---------------------------------------------------------
+========================================================
 
 1. Codeforces Note:
     - For the division operation, print the result without fractions.
