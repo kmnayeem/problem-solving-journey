@@ -1,20 +1,28 @@
-#include <bits/stdc++.h>
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Expression Validator (A op B = C)
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
+ ============================================================================
+*/
+
+#include<bits/stdc++.h>
 using namespace std;
 
 int main() 
 {
-    int A, B, C;
-    char S, eq;
-    cin >> A >> S >> B >> eq >> C;
+    int a,b,c;
+    char s, eq;
+    cin >> a >> s >> b >> eq >> c;
     int result;
-    if (S == '+')
-        result = A + B;
-    else if (S == '-')
-        result = A - B;
-    else if (S == '*')
-        result = A * B;
+    if (s == '+')
+        result = a + b;
+    else if (s == '-')
+        result = a - b;
+    else if (s == '*')
+        result = a * b;
 
-    if (result == C)
+    if (result == c)
         cout << "Yes";
     else
         cout << result;
@@ -23,8 +31,7 @@ int main()
 
 /*
 ========================================================
-Topic   : Expression Validator (A op B = C)
-Author  : kmnayeem
+ Notes:
 ========================================================
 
 Concept:
