@@ -40,8 +40,7 @@ It includes solutions, approaches, and learnings from various Data Structures an
 ---
 
 ## 🛠️ Languages & Tools
-
-- C  
+  
 - C++  
 - STL (Standard Template Library)
 
