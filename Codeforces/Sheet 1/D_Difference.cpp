@@ -1,3 +1,11 @@
+/*
+    ========================================================
+    Author  : kmnayeem
+    Topic   : Product Difference Calculation
+    Problem : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
+    ========================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() 
