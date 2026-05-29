@@ -22,8 +22,6 @@ int main()
 /*
 ========================================================
 Topic   : Interval Classification
-Platform: Beecrowd (Intervals)
-Language: C++
 Author  : kmnayeem
 ========================================================
 
