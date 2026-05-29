@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Check First Digit Parity
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
+ ============================================================================
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -12,8 +20,7 @@ int main()
 
 /*
 ========================================================
-Topic   : Check First Digit Parity
-Author  : kmnayeem
+Notes:
 ========================================================
 
 1. Input Constraint (Codeforces):
