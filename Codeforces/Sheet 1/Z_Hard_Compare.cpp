@@ -31,6 +31,17 @@ int main()
     */
 
     /*
+        if (pow(a, b) > pow(c, d)) 
+        {
+            cout << "YES";
+        }     
+        else 
+        {
+        cout << "NO";
+        }
+    */
+    
+    /*
         WHY BRUTE FORCE FAILS:
 
         1. OVERFLOW:
