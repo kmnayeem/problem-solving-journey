@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Age Conversion (Days to Years, Months, Days)
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
+ ============================================================================
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int main() 
@@ -18,8 +26,7 @@ int main()
 
 /*
 ========================================================
-Topic   : Age Conversion (Days to Years, Months, Days)
-Author  : kmnayeem
+Explanation:
 ========================================================
 
 Formulas:
