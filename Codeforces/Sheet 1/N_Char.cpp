@@ -40,7 +40,7 @@ Explanation:
     - Uppercase → Lowercase : add 32
     Example: 'D'(68) + 32 = 100 → 'd'
 
-3. Alternative (Recommended):
+3. Alternative:
     - Use built-in functions instead of manual logic:
         * toupper(x) → converts to uppercase
         * tolower(x) → converts to lowercase
