@@ -1,3 +1,11 @@
+/*
+    ========================================================
+    Author  : kmnayeem
+    Topic   : Floor, Ceil, and Round Functions
+    Problem : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
+    ========================================================
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() 
@@ -36,9 +44,3 @@ int main()
 
     return 0;
 }
-
-/*
----------------------------------------------------------
-author  : kmnayeem
----------------------------------------------------------
-*/
