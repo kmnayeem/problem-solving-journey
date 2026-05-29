@@ -2,7 +2,7 @@
     ========================================================
     Author  : kmnayeem
     Topic   : Basic Input/Output in C++
-    Problem : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+    Link    : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
     ========================================================
 */
 
