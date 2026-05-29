@@ -2,14 +2,17 @@
     ========================================================
     Author  : kmnayeem
     Problem : Power Comparison (A^B vs C^D)
+    Link    : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
     ========================================================
 */
-
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main() 
 {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     double a, b, c, d;
     cin >> a >> b >> c >> d;
 
