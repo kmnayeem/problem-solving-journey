@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Author      : kmnayeem
+ Topic       : Interval Classification
+ Link        : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
+ ============================================================================
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int main() 
@@ -21,12 +29,8 @@ int main()
 
 /*
 ========================================================
-Topic   : Interval Classification
-Author  : kmnayeem
+Explanation:
 ========================================================
-
-Mathematical Explanation:
---------------------------------------------------------
 
 Let X be the given number.
 
