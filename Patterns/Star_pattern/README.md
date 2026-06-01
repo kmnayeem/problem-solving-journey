@@ -12,33 +12,6 @@ These patterns help build a strong foundation in:
 
 ---
 
-## 📊 Pattern List
-
-| # | Pattern |
-|---|----------|
-| 01 | Left Half Pyramid |
-| 02 | Inverted Left Half Pyramid |
-| 03 | Right Half Pyramid |
-| 04 | Inverted Right Half Pyramid |
-| 05 | Full Pyramid |
-| 06 | Inverted Full Pyramid |
-| 07 | Diamond Pattern |
-| 08 | Hollow Square |
-| 09 | Hollow Rectangle |
-| 10 | Hollow Pyramid |
-| 11 | Hollow Diamond |
-| 12 | Butterfly Pattern |
-| 13 | X Pattern |
-| 14 | Hourglass Pattern |
-| 15 | Sandglass Pattern |
-| 16 | Rhombus Pattern |
-| 17 | Hollow Rhombus |
-| 18 | Plus Pattern |
-| 19 | Cross Pattern |
-| 20 | Zig-Zag Star Pattern |
-
----
-
 ## ⭐ 01. Left Half Pyramid
 
 ```text
