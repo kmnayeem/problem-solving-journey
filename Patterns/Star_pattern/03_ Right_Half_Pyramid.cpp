@@ -14,11 +14,11 @@
     *****
 
     Pattern Explanation:
-    Row 1 -> 4 spaces + 1 star
-    Row 2 -> 3 spaces + 2 stars
-    Row 3 -> 2 spaces + 3 stars
-    Row 4 -> 1 space  + 4 stars
-    Row 5 -> 0 spaces + 5 stars
+    Row 1 -> 4 space + 1 star
+    Row 2 -> 3 space + 2 star
+    Row 3 -> 2 space + 3 star
+    Row 4 -> 1 space + 4 star
+    Row 5 -> 0 space + 5 star
 
 */
 
