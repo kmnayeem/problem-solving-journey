@@ -1,5 +1,24 @@
-## 🟣 Codeforces Solutions
+# 🟣 Codeforces Solutions
 
-This repository contains my Codeforces problem solutions, systematically organized by difficulty and practice sets. It aims to improve algorithmic thinking, problem-solving skills, and consistency through regular practice and contests.
+This repository contains my Codeforces problem solutions organized by topics and practice sets.
 
-Each sheet provides solutions along with concise explanations of key concepts, logic, and approaches to enhance understanding and learning.
+It focuses on improving problem-solving skills, algorithmic thinking, and contest performance.
+
+---
+
+## 📂 Structure
+
+- Organized by contest / topic / difficulty
+- Each folder contains related solutions
+
+---
+
+## 💻 Language
+
+- C++
+
+---
+
+## 👨‍💻 Author
+
+**kmnayeem**
