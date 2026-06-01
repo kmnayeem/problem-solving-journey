@@ -2,15 +2,13 @@
 
 A collection of pattern-printing problems designed to strengthen logic building, nested loops, and problem-solving skills in C++.
 
-This section covers **Star**, **Number**, and **Character** patterns using loops and helps build a strong foundation for competitive programming.
-
 ---
 
 ## 📚 Categories
 
-* ⭐ Star Patterns
-* 🔢 Number Patterns
-* 🔤 Character Patterns
+- ⭐ Star Patterns
+- 🔢 Number Patterns
+- 🔤 Character Patterns
 
 ---
 
