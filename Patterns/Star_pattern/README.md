@@ -237,14 +237,14 @@ These patterns help build a strong foundation in:
 
 ---
 
-## ⭐ 19. Cross Pattern
+## ⭐ 19. Zebra Pattern
 
 ```text
-*   *
- * *
-  *
- * *
-*   *
+*****
+-----
+*****
+-----
+*****
 ```
 
 ---
