@@ -30,7 +30,7 @@ A collection of pattern-printing problems designed to strengthen logic building,
 | 12 | Butterfly Pattern           |
 | 13 | X Pattern                   |
 | 14 | Hourglass Pattern           |
-| 15 | Sandglass Pattern           |
+| 15 | K Pattern                   |
 | 16 | Rhombus Pattern             |
 | 17 | Hollow Rhombus              |
 | 18 | Plus Pattern                |
