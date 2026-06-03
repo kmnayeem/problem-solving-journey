@@ -34,7 +34,7 @@ A collection of pattern-printing problems designed to strengthen logic building,
 | 16 | Rhombus Pattern             |
 | 17 | Hollow Rhombus              |
 | 18 | Plus Pattern                |
-| 19 | Zebra Pattern               |
+| 19 | Heart Pattern               |
 | 20 | Zig-Zag Star Pattern        |
 
 ---
