@@ -163,7 +163,7 @@ These patterns help build a strong foundation in:
 
 ---
 
-## ⭐ 13. X Pattern
+## ⭐ 13. X Pattern / Cross Pattern
 
 ```text
 *   *
