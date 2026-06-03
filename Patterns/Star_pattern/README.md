@@ -175,7 +175,7 @@ These patterns help build a strong foundation in:
 
 ---
 
-## ⭐ 14. Hourglass Pattern
+## ⭐ 14. Hourglass Pattern / Sandglass Pattern
 
 ```text
 *****
@@ -187,18 +187,16 @@ These patterns help build a strong foundation in:
 
 ---
 
-## ⭐ 15. Sandglass Pattern
+## ⭐ 15. K Pattern
 
 ```text
-*********
- *******
-  *****
-   ***
-    *
-   ***
-  *****
- *******
-*********
+*    *
+*   *
+*  *
+***
+*  *
+*   *
+*    *
 ```
 
 ---
