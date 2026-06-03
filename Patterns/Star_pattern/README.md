@@ -249,14 +249,18 @@ These patterns help build a strong foundation in:
 
 ---
 
-## ⭐ 20. Zig-Zag Star Pattern
+## ⭐ 20. Heart Pattern
 
 ```text
-*       *
-  *   *
-    *
-  *   *
-*       *
+  **     **
+ ****   ****
+****** ******
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
 ```
 
 ---
