@@ -1,6 +1,6 @@
 # Sheet #3 (Arrays)
 
-They store multiple values of the same type in contiguous memory locations and are widely used in competitive programming for efficient data storage and processing.
+An array is a data structure that stores multiple values of the same data type in a single variable, arranged in contiguous memory locations.
 
 ---
 
