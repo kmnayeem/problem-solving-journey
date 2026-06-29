@@ -89,13 +89,13 @@ for(int i = 0; i < n; i++)
 
 # 🧠 Key Notes
 
-Arrays store same type of elements only
-Memory is contiguous
-Index starts from 0
-Always avoid out-of-bounds access
-Use `vector` for dynamic size
-Use nested loops for matrix problems
-Prefix sum helps in fast range queries
+- Arrays store same type of elements only
+- Memory is contiguous
+- Index starts from 0
+- Always avoid out-of-bounds access
+- Use `vector` for dynamic size
+- Use nested loops for matrix problems
+- Prefix sum helps in fast range queries
 
 # 🚀 Practice Sheet
 
