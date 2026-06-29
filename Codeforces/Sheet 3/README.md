@@ -80,11 +80,12 @@ for(int i = 0; i < n; i++)
 
 # ⚡ Time Complexity
 
-Operation	Complexity
-Access element	O(1)
-Traversal	O(n)
-Search	O(n)
-Insert	O(n)
+| Operation      | Complexity |
+|----------------|------------|
+| Access element | O(1)       |
+| Traversal      | O(n)       |
+| Search         | O(n)       |
+| Insert         | O(n)       |
 
 # 🧠 Key Notes
 
@@ -96,9 +97,7 @@ Use `vector` for dynamic size
 Use nested loops for matrix problems
 Prefix sum helps in fast range queries
 
-#🚀 Practice Sheet
-
-Codeforces Sheet #3 (Arrays)
+# 🚀 Practice Sheet
 
 https://codeforces.com/group/MWSDmqGsZm/contest/219774
 
