@@ -22,7 +22,7 @@ Pattern :
 *
 
 For more pattern problems and explanations,
-see the Pattern/ folder in this repository.
+see the Patterns/ folder in this repository.
 ================================================================
 */
 
@@ -43,8 +43,3 @@ int main()
     }
     return 0;
 }
-
-/*
-For more pattern problems and detailed explanations,
-check the Pattern/ folder in this repository.
-*/
