@@ -58,7 +58,6 @@ My goal is to build strong problem-solving skills, develop algorithmic thinking,
 
 </div>
 
-- C++
 - Standard Template Library (STL)
 
 ---
