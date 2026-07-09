@@ -1,76 +1,100 @@
+<div align="center">
+
 # 🧠 Problem Solving Journey
 
-A structured collection of my problem-solving practice, competitive programming progress, and algorithmic learning journey.
+**My competitive programming journey through consistent problem solving, Data Structures, and Algorithms.**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-8A2BE2?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 About This Repository
+# 📖 About
 
-This repository documents my continuous journey of improving problem-solving skills through consistent practice on platforms like:
+This repository documents my journey in **Competitive Programming** and **Problem Solving** through consistent practice.
 
-- Codeforces  
-- CodeChef  
-- LeetCode  
-- Other Online Judges  
+It contains solutions, approaches, and learning notes from different programming platforms while improving my understanding of **Data Structures and Algorithms**.
 
-It includes solutions, approaches, and learnings from various Data Structures and Algorithms (DSA) problems.
+My goal is to build strong problem-solving skills, develop algorithmic thinking, and create a solid foundation for software engineering.
 
 ---
 
-## 🎯 Goals
+# 🎯 Current Focus
 
-- Strengthen fundamental and advanced DSA concepts  
-- Improve competitive programming performance  
-- Develop strong algorithmic thinking and optimization skills  
-- Progress toward becoming a top competitive programmer  
-
----
-
-## 🧩 Topics Covered
-
-- Arrays & Strings  
-- Recursion & Backtracking  
-- Sorting & Searching  
-- Dynamic Programming  
-- Graph Theory  
-- Greedy Algorithms  
-- Bit Manipulation  
-- Math & Number Theory  
+- 🧩 Problem Solving
+- 📚 Data Structures & Algorithms
+- 🏆 Competitive Programming
+- 💻 C++
+- ⚙️ Algorithm Optimization
+- 📈 Continuous Improvement
 
 ---
 
-## 🛠️ Languages & Tools
-  
-- C++  
-- STL (Standard Template Library)
+# 📚 Topics Covered
+
+- Arrays & Strings
+- Sorting & Searching
+- Binary Search
+- Recursion & Backtracking
+- Linked Lists
+- Stack & Queue
+- Trees & Graphs
+- Greedy Algorithms
+- Dynamic Programming
+- Bit Manipulation
+- Mathematics & Number Theory
 
 ---
 
-## 📈 Progress Philosophy
+# 🛠️ Language & Tools
 
-- Consistency is the key to long-term improvement  
-- Learn from every mistake and wrong submission  
-- Focus on understanding patterns, not just solving problems  
-- Improve step by step through daily practice  
-- Growth comes from repetition and reflection 
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp" />
 
-## 📂 Repository Structure
+</div>
 
-- Codeforces/
-- Patterns/
-- README.md
-- (more folders later)
+- C++
+- Standard Template Library (STL)
 
 ---
 
-## 🧠 Motivation
+# 📂 Repository Structure
 
-> “Every problem you solve builds the thinking of tomorrow’s engineer.”
+```text
+problem-solving-journey/
+
+├── 📁 Codeforces
+├── 📁 Patterns
+├── 📁 Notes
+└── 📄 README.md
+(more folders later)
+```
+
+> 🚧 This repository is continuously updated as I solve more problems and improve my problem-solving skills.
 
 ---
 
-## 📫 Connect
+# 💡 Learning Philosophy
 
-Feel free to explore my solutions and follow my journey as I grow in competitive programming.
+> **Consistency beats intensity.**
+
+I believe every solved problem improves logical thinking, strengthens programming fundamentals, and brings me closer to becoming a better software engineer.
+
+---
+
+# 📫 Connect
+
+Feel free to explore my solutions and follow my journey as I continue learning, practicing, and improving.
+
+---
+
+<div align="center">
+
+### 💜 Learn • Solve • Improve • Repeat
+
+</div>
